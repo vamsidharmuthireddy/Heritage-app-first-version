@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monument>
+  <ip>
+    <id>1</id>
+    <title>Royal palms at the entrance to the fort</title>
+    <lat>17.4448725</lat>
+    <long>78.346779</long>
+    <caption>Entrance</caption>
+    <image>a1</image>
+    <info>The content is always there.Just there is need for someone to look into it.The closer you see, the lesser you know</info>
+
+  </ip>
+
+  <ip>
+    <id>2</id>
+
+    <title>Tiled pathway to the fort</title>
+    <lat>17.4416542</lat>
+    <long>78.359554</long>
+    <caption>Pathway</caption>
+    <image>a2</image>
+    <info>The content is always there.Just there is need someone to look into it.The closer you see, the lesser you know</info>
+
+  </ip>
+
+  <ip>
+    <id>3</id>
+
+    <title>Green lawn at the entrance</title>
+	<lat>17.4416632</lat>
+	<long>78.389554</long>
+        <caption>Lawn</caption>
+    <image>a3</image>
+    <info>The content is always there.Just there is need someone to look into it.The closer you see, the lesser you know</info>
+
+  </ip>
+
+  <ip>
+    <id>4</id>
+    <title>Guide map of Golconda Fort inner fortification</title>
+    <lat>17.4416732</lat>
+    <long>78.349554</long>
+    <caption>Guide Map</caption>
+    <image>a4</image>
+    <info>The content is always there.Just there is need someone to look into it.The closer you see, the lesser you know</info>
+
+  </ip>
+
+</monument>

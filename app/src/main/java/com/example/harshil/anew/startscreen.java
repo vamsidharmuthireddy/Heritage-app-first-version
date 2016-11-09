@@ -9,7 +9,10 @@ import android.view.View;
 import android.widget.ProgressBar;
 
 public class startscreen extends AppCompatActivity {
-
+/**
+*This class just starts an intent to downloader class
+*/
+    
     private static final int PROGRESS = 0x1;
 
     private ProgressBar mProgress;

@@ -40,6 +40,11 @@ import java.util.Comparator;
 
 
 public class MainActivity extends AppCompatActivity {
+    /**
+    *This class is started as an intent from downloader class
+    *This class uses StackList class to set the attributes of an interestpoint and load that interest point into a StackList array
+    *Depending on buton press on layout, It starts an intent to Home, Map or List class
+    */
     LinearLayout layout;
     java.util.List<com.example.harshil.anew.Stacklist> set = new ArrayList<Stacklist>();
 

@@ -14,7 +14,10 @@ import java.lang.reflect.Field;
 
 
 public class Spacex extends MainActivity {
-
+/**
+*When we click the image button of an interest point then this class will be called from an intent
+*Base on the id of the clicked interest point, relevant image will be loaded based on image tag and displayed on screen
+*/
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

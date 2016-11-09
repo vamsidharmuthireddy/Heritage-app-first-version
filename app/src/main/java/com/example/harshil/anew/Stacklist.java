@@ -4,7 +4,11 @@ package com.example.harshil.anew;
  * Created by Harshil on 6/22/2016.
  */
 public class Stacklist extends Locn{
-
+/**
+*Sets and gets the interestpoint information from the xml file
+*
+*/
+    
     private int id;
     private String title;
     private Locn loctn;

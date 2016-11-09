@@ -22,6 +22,11 @@ import java.util.ArrayList;
 
 
 public class downloader extends AppCompatActivity {
+        /**
+        *First downloads an index file containing the names and download paths of required files.
+        *Then dowloads the files listed in index.txt file and saves them into external storage
+        *Downloaded xml and images are same as in trial package
+        */
 
         ArrayList<String> iname=new ArrayList();
         ArrayList<String> ipath=new ArrayList();
